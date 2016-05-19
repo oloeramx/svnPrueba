@@ -2,6 +2,7 @@
 Desarrollado: Leonardo Galicia Jiménez
 Fecha: 25 de abril de 2016
 
+// esto es un comentario
 Descripción: 
 	- Aplicación desarrollada en Java que permite solicitar peticiones GET a un conjunto de URL definidas
 y obtener su respuesta, ya sea exitosa o no; de tal manera que una vez obtenido el HTML, se analiza éste y se 
