@@ -1,8 +1,8 @@
 workingPath    = ./
 fileIn         = urls.txt
 testName       = wifi-router
-hilos          = 10
-repetir        = 1
+hilos          = 100
+repetir        = 10
 divideArchivos = true
 
 multipuertos = false
